@@ -7,10 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        ndsbfglafsha ;fan fn
+        <Frame>
+            <Page>
+                <StackPanel>
+                    <TextBlock Text="hsbd abfj"/>
+                </StackPanel>
+            </Page>
+        </Frame>
 
 
-
-        <Page>hsbd abfj</Page>
     </Grid>
 </Window>
