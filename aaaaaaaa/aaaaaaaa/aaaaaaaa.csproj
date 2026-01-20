@@ -4,14 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{9C20CD21-3D27-4BD4-947C-587A1FA6A1C5}</ProjectGuid>
-=======
-    <ProjectGuid>{B961E299-417C-42A9-8730-B3D0ACC9E419}</ProjectGuid>
->>>>>>> c1749ba5f07b14296e7e3e9b91d1ad49049cbd9c
+    <ProjectGuid>{1CC34107-5737-48E7-B71F-FB8C335177C6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WpfApp1</RootNamespace>
-    <AssemblyName>WpfApp1</AssemblyName>
+    <RootNamespace>aaaaaaaa</RootNamespace>
+    <AssemblyName>aaaaaaaa</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

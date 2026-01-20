@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+<<<<<<< HEAD
         <Border CornerRadius="10"
              Padding="20"
              Background="#F0F0F0"
@@ -39,5 +40,16 @@
                      />
             </StackPanel>
         </Border>
+=======
+        <Frame>
+            <Page>
+                <StackPanel>
+                    <TextBlock Text="hsbdaaaa abfj"/>
+                </StackPanel>
+            </Page>
+        </Frame>
+
+
+>>>>>>> c1749ba5f07b14296e7e3e9b91d1ad49049cbd9c
     </Grid>
 </Window>
